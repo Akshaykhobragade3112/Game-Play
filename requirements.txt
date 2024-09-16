@@ -1,0 +1,4 @@
+pygame # Required for Pygame-based Tic-Tac-Toe game
+streamlit # Required for the Streamlit-based app
+pillow  # Used to draw the Tic-Tac-Toe board in the Streamlit app
+numpy # Commonly used for handling arrays, might be useful for future expansions
